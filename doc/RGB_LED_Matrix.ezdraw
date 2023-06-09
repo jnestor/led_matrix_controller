@@ -6796,7 +6796,7 @@
 	Sq6f8e//AG8f+z1PL/x9Qf7zf+g0Af/Z
 	</data>
 	<key>DKDChangeTimeStamp</key>
-	<string>2023-06-09 13:54:31 +0000</string>
+	<string>2023-06-09 15:15:40 +0000</string>
 	<key>DKDCreateTimeStamp</key>
 	<string>2019-01-03 19:40:52 +0000</string>
 	<key>DKDDisplayGraphicDetails</key>
@@ -56471,6 +56471,23 @@ C1403.50152359,2199.19498881 1452.92330798,2187.01186304 1480.90973783,2239.9528
 						</dict>
 					</array>
 				</dict>
+				<dict>
+					<key>AttributedText</key>
+					<dict>
+						<key>String</key>
+						<string>Note: Pin Name are for the Nexys 4</string>
+						<key>TextAttribute</key>
+						<string>144</string>
+					</dict>
+					<key>Bounds</key>
+					<string>{{1269, 963}, {248.715834604, 16.857231341}}</string>
+					<key>Class</key>
+					<string>DKDTextArea</string>
+					<key>GraphicID</key>
+					<string>B7988F5E</string>
+					<key>GraphicStyle</key>
+					<string>10</string>
+				</dict>
 			</array>
 			<key>HideDimensions</key>
 			<string>NO</string>
@@ -56680,7 +56697,7 @@ C1403.50152359,2199.19498881 1452.92330798,2187.01186304 1480.90973783,2239.9528
 		<string>NO</string>
 	</dict>
 	<key>DKDSaveTimeStamp</key>
-	<string>2023-06-09 13:55:53 +0000</string>
+	<string>2023-06-09 15:27:05 +0000</string>
 	<key>DKDTablet</key>
 	<dict>
 		<key>BrushDynamic</key>
@@ -56830,9 +56847,9 @@ C1403.50152359,2199.19498881 1452.92330798,2187.01186304 1480.90973783,2239.9528
 		<key>CursorMode</key>
 		<string>Nothing</string>
 		<key>DocCenter</key>
-		<string>{2397.25, 1963.25}</string>
+		<string>{1109.38536585, 664.45586869}</string>
 		<key>DocumentFileName</key>
-		<string>/Users/nestorj/Library/CloudStorage/GoogleDrive-nestorj@lafayette.edu/My Drive/2021_22/Teaching/212_22S/Lab/Lab04/Lab03_19S_LEDMatrix/RGB_LED_Matrix.ezdraw</string>
+		<string>/Users/nestorj/github/led_matrix_controller/doc/RGB_LED_Matrix.ezdraw</string>
 		<key>DrawersOnMainView</key>
 		<string>YES</string>
 		<key>GDetailsLayersDrawerEdgePreference</key>
@@ -56852,9 +56869,9 @@ C1403.50152359,2199.19498881 1452.92330798,2187.01186304 1480.90973783,2239.9528
 		<key>OutlineDrawing</key>
 		<string>NO</string>
 		<key>WindowLocation</key>
-		<string>2036 -74 1513 877 1920 0 1920 1080 </string>
+		<string>143 178 1513 877 0 0 1920 1055 </string>
 		<key>ZoomPercent</key>
-		<string>200.000000</string>
+		<string>106.787109</string>
 	</dict>
 	<key>GroupEdit</key>
 	<string>Fixed</string>

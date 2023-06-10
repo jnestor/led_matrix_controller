@@ -1,6 +1,10 @@
-module sequencer_fsm (input logic clk, rst, half_enb, colct_eq_31,
-                       output logic sclk_r_clr, sclk_r_set, rowct_clr,
-                       output logic rowct_enb, colct_clr, colct_enb, blank, lat);
+module sequencer_fsm (
+    input logic clk, rst, half_enb, colct_eq_max,
+    output logic sclk_r_clr, sclk_r_set, rowct_clr,
+    output logic rowct_enb, colct_clr, colct_enb, blank, lat
+    );
+    
+parameter NUM_PANELS = 1;
 
 enum logic [2:0] { BLANK2, SCLK_LO, SCLK_HI, BLANK0, BLANK1, LATCH } state, next;
 
@@ -31,7 +35,7 @@ always_comb
              sclk_r_set = 1;
              if (half_enb)
                begin
-                  if (colct_eq_31) next = BLANK0;
+                  if (colct_eq_max) next = BLANK0;
                   else
                     begin
                        colct_enb = 1;

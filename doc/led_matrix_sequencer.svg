@@ -15,7 +15,7 @@
     preserveAspectRatio="none"
     id="svg2">
    <defs
-       id="defs_7B02112E">
+       id="defs_9ADCF79E">
       <marker
           orient="auto"
           refX="0.0"
@@ -583,7 +583,7 @@
           font-size="9"
           font-weight="normal"
           font-style="normal">
-         <tspan x="422.693847656" y="493">colct_eq_31</tspan>
+         <tspan x="417.29296875" y="493">colct_eq_max</tspan>
       </text>
       <text
           id="3F505A8D"
@@ -854,7 +854,7 @@
           font-weight="normal"
           font-style="normal">
          <tspan x="711.5" y="257.5">half_enb &amp;&amp;  </tspan>
-         <tspan x="711.5" y="271.5">colt_eq_31</tspan>
+         <tspan x="711.5" y="271.5">colt_eq_max</tspan>
       </text>
       <text
           id="ED4F62DD"
@@ -864,7 +864,7 @@
           font-weight="normal"
           font-style="normal">
          <tspan x="585.5" y="167.5">half_enb &amp;&amp;  </tspan>
-         <tspan x="585.5" y="181.5">!colt_eq_31 /</tspan>
+         <tspan x="585.5" y="181.5">!colt_eq_max /</tspan>
          <tspan x="585.5" y="195.5">colct_enb</tspan>
       </text>
       <line
@@ -1297,7 +1297,7 @@ C853.294618939,12.2538125142 753.308336822,1.659393909154 729.821906982,46.70181
           font-size="10"
           font-weight="normal"
           font-style="normal">
-         <tspan x="974.21" y="259.5">colct_eq_31</tspan>
+         <tspan x="970.505" y="259.5">colct_eq_max</tspan>
       </text>
       <line
           style="fill:none;marker-end:url(#553B0B9D_end_arrow)"
@@ -1377,9 +1377,9 @@ C853.294618939,12.2538125142 753.308336822,1.659393909154 729.821906982,46.70181
           style="fill:none"
           id="1868C0CD"
           x1="940.5"
-          y1="454.5"
+          y1="553.5"
           x2="940.5"
-          y2="499.5"/>
+          y2="598.5"/>
       <line
           style="fill:none"
           id="5BAC43BD"
@@ -1412,6 +1412,106 @@ C853.294618939,12.2538125142 753.308336822,1.659393909154 729.821906982,46.70181
           y1="364.5"
           x2="999"
           y2="382.5"/>
+      <line
+          style="fill:none;marker-end:url(#553B0B9D_end_arrow)"
+          id="BF8B708E"
+          x1="999"
+          y1="409.5"
+          x2="999"
+          y2="436.5"/>
+      <rect
+          style="fill:none;stroke-width:2"
+          id="DF8B708E"
+          x="958.5"
+          y="436.5"
+          width="81"
+          height="45"/>
+      <text
+          id="EF8B708E"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="10"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="986.96" y="448">blank</tspan>
+         <tspan x="978.92" y="462">sclk_r_clr</tspan>
+         <tspan x="980.585" y="476">colct_clr</tspan>
+      </text>
+      <text
+          id="FF8B708E"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="12"
+          font-weight="bold"
+          font-style="normal">
+         <tspan x="923" y="430.5">BLANK1</tspan>
+      </text>
+      <polyline
+          style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:2"
+          id="009B708E"
+          points="976.5,499.5 967.5,508.5 976.5,517.5 1026,517.5 1035,508.5 1026,499.5 976.5,499.5"/>
+      <text
+          id="109B708E"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="10"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="982.08" y="511.5">half_enb</tspan>
+      </text>
+      <line
+          style="fill:none;marker-end:url(#553B0B9D_end_arrow)"
+          id="209B708E"
+          x1="999"
+          y1="481.5"
+          x2="999"
+          y2="499.5"/>
+      <line
+          style="fill:none;marker-end:url(#553B0B9D_end_arrow)"
+          id="309B708E"
+          x1="940.5"
+          y1="454.5"
+          x2="958.5"
+          y2="454.5"/>
+      <line
+          style="fill:none"
+          id="409B708E"
+          x1="940.5"
+          y1="454.5"
+          x2="940.5"
+          y2="508.5"/>
+      <line
+          style="fill:none"
+          id="509B708E"
+          x1="967.5"
+          y1="508.5"
+          x2="940.5"
+          y2="508.5"/>
+      <text
+          id="609B708E"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="10"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="959" y="505">F</tspan>
+      </text>
+      <text
+          id="709B708E"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="10"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="1004" y="527.5">T</tspan>
+      </text>
+      <line
+          style="fill:none;marker-end:url(#553B0B9D_end_arrow)"
+          id="809B708E"
+          x1="999"
+          y1="517.5"
+          x2="999"
+          y2="535.5"/>
       <line
           style="fill:none;marker-start:url(#66DC7D9D_start_arrow)"
           id="4BE41BAD"
@@ -1473,18 +1573,11 @@ C853.294618939,12.2538125142 753.308336822,1.659393909154 729.821906982,46.70181
           font-style="normal">
          <tspan x="975.67" y="399">rowct_enb</tspan>
       </text>
-      <line
-          style="fill:none;marker-end:url(#553B0B9D_end_arrow)"
-          id="37B55FBD"
-          x1="999"
-          y1="409.5"
-          x2="999"
-          y2="436.5"/>
       <rect
           style="fill:none;stroke-width:2"
           id="57B55FBD"
           x="958.5"
-          y="436.5"
+          y="535.5"
           width="81"
           height="36"/>
       <text
@@ -1494,8 +1587,8 @@ C853.294618939,12.2538125142 753.308336822,1.659393909154 729.821906982,46.70181
           font-size="10"
           font-weight="normal"
           font-style="normal">
-         <tspan x="986.96" y="450.5">blank</tspan>
-         <tspan x="993.545" y="464.5">lat</tspan>
+         <tspan x="986.96" y="549.5">blank</tspan>
+         <tspan x="993.545" y="563.5">lat</tspan>
       </text>
       <text
           id="77B55FBD"
@@ -1504,105 +1597,14 @@ C853.294618939,12.2538125142 753.308336822,1.659393909154 729.821906982,46.70181
           font-size="12"
           font-weight="bold"
           font-style="normal">
-         <tspan x="923" y="430.5">LATCH</tspan>
+         <tspan x="923" y="529.5">LATCH</tspan>
       </text>
       <polyline
           style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:2"
           id="87B55FBD"
-          points="976.5,490.5 967.5,499.5 976.5,508.5 1026,508.5 1035,499.5 1026,490.5 976.5,490.5"/>
-      <text
-          id="97B55FBD"
-          style="stroke:none"
-          font-family="Avenir"
-          font-size="10"
-          font-weight="normal"
-          font-style="normal">
-         <tspan x="982.08" y="502.5">half_enb</tspan>
-      </text>
-      <line
-          style="fill:none;marker-end:url(#553B0B9D_end_arrow)"
-          id="A7B55FBD"
-          x1="999"
-          y1="472.5"
-          x2="999"
-          y2="490.5"/>
-      <line
-          style="fill:none;marker-end:url(#553B0B9D_end_arrow)"
-          id="B7B55FBD"
-          x1="940.5"
-          y1="454.5"
-          x2="958.5"
-          y2="454.5"/>
-      <line
-          style="fill:none"
-          id="C7B55FBD"
-          x1="967.5"
-          y1="499.5"
-          x2="940.5"
-          y2="499.5"/>
-      <text
-          id="D7B55FBD"
-          style="stroke:none"
-          font-family="Avenir"
-          font-size="10"
-          font-weight="normal"
-          font-style="normal">
-         <tspan x="959" y="496">F</tspan>
-      </text>
-      <text
-          id="E7B55FBD"
-          style="stroke:none"
-          font-family="Avenir"
-          font-size="10"
-          font-weight="normal"
-          font-style="normal">
-         <tspan x="1004" y="518.5">T</tspan>
-      </text>
-      <line
-          style="fill:none;marker-end:url(#553B0B9D_end_arrow)"
-          id="F7B55FBD"
-          x1="999"
-          y1="508.5"
-          x2="999"
-          y2="535.5"/>
-      <line
-          style="fill:none"
-          id="12E1B1CD"
-          x1="940.5"
-          y1="553.5"
-          x2="940.5"
-          y2="598.5"/>
-      <rect
-          style="fill:none;stroke-width:2"
-          id="22E1B1CD"
-          x="958.5"
-          y="535.5"
-          width="81"
-          height="36"/>
-      <text
-          id="42E1B1CD"
-          style="stroke:none"
-          font-family="Avenir"
-          font-size="10"
-          font-weight="normal"
-          font-style="normal">
-         <tspan x="986.96" y="556.5">blank</tspan>
-      </text>
-      <text
-          id="52E1B1CD"
-          style="stroke:none"
-          font-family="Avenir"
-          font-size="12"
-          font-weight="bold"
-          font-style="normal">
-         <tspan x="923" y="529.5">BLANK2</tspan>
-      </text>
-      <polyline
-          style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:2"
-          id="62E1B1CD"
           points="976.5,589.5 967.5,598.5 976.5,607.5 1026,607.5 1035,598.5 1026,589.5 976.5,589.5"/>
       <text
-          id="72E1B1CD"
+          id="97B55FBD"
           style="stroke:none"
           font-family="Avenir"
           font-size="10"
@@ -1612,27 +1614,27 @@ C853.294618939,12.2538125142 753.308336822,1.659393909154 729.821906982,46.70181
       </text>
       <line
           style="fill:none;marker-end:url(#553B0B9D_end_arrow)"
-          id="82E1B1CD"
+          id="A7B55FBD"
           x1="999"
           y1="571.5"
           x2="999"
           y2="589.5"/>
       <line
           style="fill:none;marker-end:url(#553B0B9D_end_arrow)"
-          id="92E1B1CD"
+          id="B7B55FBD"
           x1="940.5"
           y1="553.5"
           x2="958.5"
           y2="553.5"/>
       <line
           style="fill:none"
-          id="A2E1B1CD"
+          id="C7B55FBD"
           x1="967.5"
           y1="598.5"
           x2="940.5"
           y2="598.5"/>
       <text
-          id="B2E1B1CD"
+          id="D7B55FBD"
           style="stroke:none"
           font-family="Avenir"
           font-size="10"
@@ -1641,7 +1643,7 @@ C853.294618939,12.2538125142 753.308336822,1.659393909154 729.821906982,46.70181
          <tspan x="959" y="595">F</tspan>
       </text>
       <text
-          id="C2E1B1CD"
+          id="E7B55FBD"
           style="stroke:none"
           font-family="Avenir"
           font-size="10"
@@ -1650,26 +1652,117 @@ C853.294618939,12.2538125142 753.308336822,1.659393909154 729.821906982,46.70181
          <tspan x="1004" y="617.5">T</tspan>
       </text>
       <line
-          style="fill:none"
-          id="D2E1B1CD"
+          style="fill:none;marker-end:url(#553B0B9D_end_arrow)"
+          id="F7B55FBD"
           x1="999"
           y1="607.5"
           x2="999"
-          y2="625.5"/>
+          y2="634.5"/>
+      <line
+          style="fill:none"
+          id="12E1B1CD"
+          x1="940.5"
+          y1="652.5"
+          x2="940.5"
+          y2="697.5"/>
+      <rect
+          style="fill:none;stroke-width:2"
+          id="22E1B1CD"
+          x="958.5"
+          y="634.5"
+          width="81"
+          height="36"/>
+      <text
+          id="42E1B1CD"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="10"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="986.96" y="655.5">blank</tspan>
+      </text>
+      <text
+          id="52E1B1CD"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="12"
+          font-weight="bold"
+          font-style="normal">
+         <tspan x="923" y="628.5">BLANK2</tspan>
+      </text>
+      <polyline
+          style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:2"
+          id="62E1B1CD"
+          points="976.5,688.5 967.5,697.5 976.5,706.5 1026,706.5 1035,697.5 1026,688.5 976.5,688.5"/>
+      <text
+          id="72E1B1CD"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="10"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="982.08" y="700.5">half_enb</tspan>
+      </text>
+      <line
+          style="fill:none;marker-end:url(#553B0B9D_end_arrow)"
+          id="82E1B1CD"
+          x1="999"
+          y1="670.5"
+          x2="999"
+          y2="688.5"/>
+      <line
+          style="fill:none;marker-end:url(#553B0B9D_end_arrow)"
+          id="92E1B1CD"
+          x1="940.5"
+          y1="652.5"
+          x2="958.5"
+          y2="652.5"/>
+      <line
+          style="fill:none"
+          id="A2E1B1CD"
+          x1="967.5"
+          y1="697.5"
+          x2="940.5"
+          y2="697.5"/>
+      <text
+          id="B2E1B1CD"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="10"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="959" y="694">F</tspan>
+      </text>
+      <text
+          id="C2E1B1CD"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="10"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="1004" y="716.5">T</tspan>
+      </text>
+      <line
+          style="fill:none"
+          id="D2E1B1CD"
+          x1="999"
+          y1="706.5"
+          x2="999"
+          y2="724.5"/>
       <line
           style="fill:none"
           id="B84D33CD"
           x1="913.5"
-          y1="625.5"
+          y1="724.5"
           x2="909"
           y2="76.5"/>
       <line
           style="fill:none"
           id="2D3D53CD"
           x1="913.5"
-          y1="625.5"
+          y1="724.5"
           x2="999"
-          y2="625.5"/>
+          y2="724.5"/>
       <path
           style="fill:none;stroke-width:2;marker-end:url(#1945A09D_end_arrow)"
           id="7487AFCD"
@@ -1682,7 +1775,7 @@ C853.294618939,12.2538125142 753.308336822,1.659393909154 729.821906982,46.70181
           font-weight="normal"
           font-style="normal">
          <tspan x="57.4637226421" y="25.9430733409">Sequencer Circuit for Adafruit LED Matrix</tspan>
-         <tspan x="57.4637226421" y="42.9430733409" font-size="12">J. Nestor 6/9/2023</tspan>
+         <tspan x="57.4637226421" y="42.9430733409" font-size="12">J. Nestor 6/10/2023</tspan>
       </text>
       <text
           id="C6B7BAED"
@@ -1701,7 +1794,7 @@ C853.294618939,12.2538125142 753.308336822,1.659393909154 729.821906982,46.70181
           font-size="12"
           font-weight="normal"
           font-style="normal">
-         <tspan x="968" y="651">ASM Diagram</tspan>
+         <tspan x="968" y="741">ASM Diagram</tspan>
       </text>
    </g>
 </svg>

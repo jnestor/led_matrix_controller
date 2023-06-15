@@ -30,9 +30,9 @@ void write_bram_init(char msg[], unsigned int color_mask, unsigned int col_offse
   //Go through the whole message twice to create init file for top and bottom display
 
   for(int k = 0; k < 2; k++){
-    printf("Generating init %d\n\r", k+1); 
-    init_col = 0; 
-    i = 0; 
+    printf("Generating init %d\n\r", k+1);
+    init_col = 0;
+    i = 0;
     init_num = col_offset / 8;
     //While there's still stuff in the message
     while ( (i < MSG_LIMIT) && ((c = msg[i]) != 0) ) {
@@ -53,7 +53,7 @@ void write_bram_init(char msg[], unsigned int color_mask, unsigned int col_offse
       }else{
         for (int j=0; j<6; j++) {
           init_buf[init_col] = top_bottom_char_map[c][j + 6];
-          //We got to the end of the char
+          //We got to the end of the char//
           //Print the message out, move to next
           if (init_col == 7) {
             write_init(init_num, init_buf, color_mask);
@@ -68,16 +68,18 @@ void write_bram_init(char msg[], unsigned int color_mask, unsigned int col_offse
     // fill up remaining columns for last "init_col"
     if (init_col>0) {
       while (init_col<=7) {
-        init_buf[init_col++] = 0; 
+        init_buf[init_col++] = 0;
       }
       write_init(init_num, init_buf, color_mask);
     }
   }
 }
 
-#define DEFAULT_STRING "CONGRATS CLASS OF 2022!!!"
-#define DEFAULT_MASK 0x44444444 //I like red
-#define DEFAULT_OFFSET 256
+#define DEFAULT_STRING "Lafeyette ECE 2023"
+#define DEFAULT_MASK 0x42164216 //RGBYRGBY
+//#define DEFAULT_MASK 0x41622614 //RGYBYGR
+//#define DEFAULT_MASK 0x24242424 //GRGRGRGR
+#define DEFAULT_OFFSET 128
 #define MAX_CHARS 1024 / 6
 
 
